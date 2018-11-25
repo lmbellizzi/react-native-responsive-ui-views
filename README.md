@@ -1,14 +1,13 @@
-# rn-responsive
+# react-native-responsive-ui-views
 
-[![npm package]]
-
-**rn-responsive** is an smart module that provides 2 simple methods for React Native developers to improve yours UI elements fully responsive without media queries.
+**react-native-responsive-ui-views** is an smart module that provides 2 simple methods for React Native developers to improve yours UI elements fully responsive without media queries.
 
 It also provides an optional method for screen orientation detection and automagic rerendering the new window dimensions.
 
 Try it and make easy to code!
 
 ## Install
+>npm install react-native-responsive-ui-views --save
 
 ## Usage
 - This package provides two basic methods:
@@ -24,7 +23,7 @@ Try it and make easy to code!
 ```sh
 import React, { Component } from 'react';
 import { View, Text, StyleSheet } from 'react-native';
-import { responsiveWidth as wp, responsiveHeight as hp } from 'rn-responsive';
+import { responsiveWidth as wp, responsiveHeight as hp } from 'react-native-responsive-ui-views';
 
 export default class Example extends Component {
     <View style={styles.container}>
@@ -61,6 +60,3 @@ MIT
 Pull request are welcome!
 Please make PR to development branch though and not to master.
 Thanks
-
-# PS
-This lib is based on [react-native-responsive-screen](https://github.com/marudy/react-native-responsive-screen)

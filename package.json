@@ -1,6 +1,6 @@
 {
   "name": "react-native-responsive-ui-views",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Make React Native views responsive for all devices.",
   "main": "index.js",
   "scripts": {

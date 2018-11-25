@@ -2,8 +2,8 @@
 import { Dimensions, PixelRatio } from 'react-native';
 
 // get device width and height
-let {devWidth, devHeight} = Dimensions.get('window');
-
+let devWidth = Dimensions.get('window').width;
+let devHeight = Dimensions.get('window').height;
 /**
  *  Converts the device's window width to independent pixels (dp).
  * 

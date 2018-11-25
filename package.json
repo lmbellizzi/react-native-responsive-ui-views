@@ -1,0 +1,32 @@
+{
+    "name": "rn-responsive",
+    "version": "0.1.0",
+    "description": "Make React Native views responsive for all devices.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/lmbellizzi/rn-responsive.git"
+    },
+    "keywords": [
+      "react-native",
+      "responsive-ui",
+      "responsive-view",
+      "responsive-screen",
+      "responsive"
+    ],
+    "author": "Leandro Bellizzi <lbellizzi.dev@gmail.com> (https://github.com/lmbellizzi)",
+    "contributors": [
+      "Leandro Bellizzi <lbellizzi.dev@gmail.com> (https://github.com/lmbellizzi)"
+    ],
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/lmbellizzi/rn-responsive/issues"
+    },
+    "homepage": "https://github.com/lmbellizzi/rn-responsive#readme",
+    "peerDependencies": {
+      "react-native": ">=0.57.5"
+    }
+  }

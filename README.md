@@ -16,7 +16,7 @@ Try it and make easy to code!
   * responsiveHeight - receives a number (float or integer) as the parameter representing the desired height percentage.
 
 - Methods *resonsiveWidth* and *responsiveHeight* can be used with any width or heigth css styles.
-- Both methos return an number.
+- Both methods return an number.
 
 ## Example
 

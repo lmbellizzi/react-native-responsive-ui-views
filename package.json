@@ -1,6 +1,6 @@
 {
   "name": "react-native-responsive-ui-views",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Make React Native views responsive for all devices.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lmbellizzi/rn-responsive.git"
+    "url": "git+https://github.com/lmbellizzi/react-native-responsive-ui-views.git"
   },
   "keywords": [
     "react-native",
@@ -23,9 +23,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lmbellizzi/rn-responsive/issues"
+    "url": "https://github.com/lmbellizzi/react-native-responsive-ui-views/issues"
   },
-  "homepage": "https://github.com/lmbellizzi/rn-responsive#readme",
+  "homepage": "https://github.com/lmbellizzi/react-native-responsive-ui-views#readme",
   "peerDependencies": {
     "react-native": ">=0.57.5"
   }
